@@ -50,4 +50,4 @@ https://codeberg.org/PyralOS/PyralOs
 
 # License
 
-We are **currently** use MIT license
+We are **currently** use [MIT license](https://github.com/Pyralys/PyralOs/blob/main/LICENSE)

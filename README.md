@@ -16,7 +16,7 @@ We're building a mobile OS from open-source components, with a modern interface 
 
 Current Contributors & Developers:
 
-- Pyralis (Owner)
+- Pyralys (Owner)
 - mustardfrog
 - fuwwa
 - Game28

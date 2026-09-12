@@ -21,3 +21,7 @@
 10. Easy devlopment for native apps and first official public release
 
 11. Try to implement iOS app
+
+# Warning
+
+This roadmap isnt final, so everything is subject to change

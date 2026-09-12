@@ -26,4 +26,4 @@ UI part two - design
 Second material optimisation
 
 **1**
-Easy devlopment for native apps and first official public release
+Easy development for native apps and first official public release

@@ -20,7 +20,7 @@ int main() {
             std::string content = dpp::utility::read_file("../../ROADMAP.md");
 
             if (content.empty()) {
-                event.reply("Roadmap file has been didnt finded");
+                event.reply("Roadmap file has been didnt found");
             } else {
                 event.reply(content);
             }

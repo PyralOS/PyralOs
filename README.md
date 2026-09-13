@@ -26,6 +26,7 @@ Current Contributors & Developers:
 - Martell0x1
 - Prouddani
 - TinAD19tin
+- Pinks
 
 # Looking for contributors interested in:
  -  Rust / C / C++

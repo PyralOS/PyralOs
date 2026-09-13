@@ -14,7 +14,7 @@ We're building a mobile OS from open-source components, with a modern interface 
 
 # Status: Brainstorming - Looking for foundings contributors. 
 
-Current Contributors & Developers:
+Current Official Developers:
 
 - Pyralys (Owner)
 - mustardfrog
@@ -27,6 +27,11 @@ Current Contributors & Developers:
 - Martell0x1
 - Prouddani
 - TinAD19tin
+
+Current Contributors :
+<a href="https://github.com/Pyralys/PyralOS/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Pyralys/PyralOS&max=100" />
+</a>
 
 # Looking for contributors interested in:
  -  Rust / C / C++

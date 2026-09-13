@@ -19,6 +19,7 @@ Current Contributors & Developers:
 - Pyralys (Owner)
 - mustardfrog
 - fuwwa
+- Toto
 - Game28
 - Darkvox
 - fake hecker

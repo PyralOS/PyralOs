@@ -1,10 +1,12 @@
+# Roadmap
+
 - [ ] **0.1**
 Boot screen
 
 - [ ] **0.2**
 Terminal with virtual keyboard
 
-- [ ] **0.3***
+- [ ] **0.3**
 First Material optimisation
 
 - [ ] **0.4**

@@ -6,6 +6,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(dpp REQUIRED)
 
-add_executable(bot main.cpp)
+add_executable(${PROJECT_NAME} main.cpp)
 
-target_link_libraries(bot PRIVATE dpp::dpp pthread)
+target_link_libraries(${PROJECT_NAME} PRIVATE dpp::dpp pthread)

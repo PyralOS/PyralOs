@@ -15,7 +15,7 @@ int main() {
     });
     bot.on_slashcommand([](const dpp::slashcommand_t& event) {
         if (event.command.get_command_name() == "contributors") {
-            event.reply("mustardfrog, fuwwa, Game28, Darkvox, fake hecker, Load 72, Martell0x1, Prouddani, TinAD19tin");
+            event.reply("Check: https://github.com/orgs/PyralOS/people");
         } else if (event.command.get_command_name() == "roadmap") {
             std::string content = dpp::utility::read_file("../../ROADMAP.md");
 

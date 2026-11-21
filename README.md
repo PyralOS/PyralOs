@@ -28,12 +28,6 @@ Official Developers:
 - Prouddani
 - TinAD19tin
 
-Current Contributors :
-
-<a href="https://github.com/Pyralys/PyralOS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Pyralys/PyralOS&max=100" />
-</a>
-
 # Looking for contributors interested in:
  -  Rust / C / C++
  -  Linux

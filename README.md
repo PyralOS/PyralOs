@@ -44,7 +44,7 @@ P.S.: The project is currently named PyralOs, though the name may change later o
 
 # 👀 You want know more ?
 Don't hesitate to come and take a look.
-https://discord.gg/amxc6XutV
+https://discord.gg/KA9xVDDC8F
 
 We are also on Codeberg :
 https://codeberg.org/PyralOS/PyralOs

@@ -12,22 +12,6 @@ We're building a mobile OS from open-source components, with a modern interface 
 - A highly user-friendly environment
 - Easy development for built-in apps
 
-# Status: Brainstorming - Looking for foundings contributors. 
-
-Official Developers:
-
-- Pyralys (Owner)
-- mustardfrog
-- fuwwa
-- Toto
-- Game28
-- Darkvox
-- fake hecker
-- Load 72
-- Martell0x1
-- Prouddani
-- TinAD19tin
-
 # Looking for contributors interested in:
  -  Rust / C / C++
  -  Linux
@@ -37,6 +21,8 @@ Official Developers:
  -  Security
  -  Hardware bring-up
  -  Documentation
+
+Status: Brainstorming - Looking for foundings contributors. 
 
 You are welcome to join even if you don't know how to code.
 
